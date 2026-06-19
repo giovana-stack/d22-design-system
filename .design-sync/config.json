@@ -8,6 +8,9 @@
   "projectId": "7db8fd53-f711-4239-870a-3c827f37eb5c",
   "runtimeFontPrefixes": ["Montserrat", "Plus Jakarta Sans"],
   "readmeHeader": ".design-sync/conventions.md",
+  "libOverrides": {
+    "css": "lifts remote @import url() from _ds_bundle.css into styles.css so Google Fonts loads from the top-level entry file"
+  },
   "overrides": {
     "Button": {"cardMode": "column"}
   }
