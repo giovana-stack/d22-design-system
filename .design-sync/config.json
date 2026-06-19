@@ -1,0 +1,9 @@
+{
+  "shape": "package",
+  "pkg": "d22-design-system",
+  "globalName": "D22",
+  "buildCmd": "npm run build",
+  "entry": "./dist/index.es.js",
+  "cssEntry": "./dist/style.css",
+  "typesDir": "./dist"
+}
