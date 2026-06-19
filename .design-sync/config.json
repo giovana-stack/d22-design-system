@@ -6,7 +6,7 @@
   "entry": "./dist/index.js",
   "cssEntry": "./dist/style.css",
   "projectId": "7db8fd53-f711-4239-870a-3c827f37eb5c",
-  "runtimeFontPrefixes": ["Syne", "Plus Jakarta Sans"],
+  "runtimeFontPrefixes": ["Montserrat", "Plus Jakarta Sans"],
   "readmeHeader": ".design-sync/conventions.md",
   "overrides": {
     "Button": {"cardMode": "column"}

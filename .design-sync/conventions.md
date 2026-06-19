@@ -29,7 +29,7 @@ This is a **BEM-like class system**. Every component ships its own classes; the 
 | Border | `--d22-border` `--d22-border-2` |
 | Radius | `--d22-r-xs`(4px) `--d22-r-sm`(8px) `--d22-r-md`(12px) `--d22-r-lg`(16px) `--d22-r-xl`(20px) `--d22-r-pill`(9999px) |
 | Shadow | `--d22-sh-sm` `--d22-sh-md` `--d22-sh-lg` |
-| Typography | `--d22-font-display` (Syne) `--d22-font-body` (Plus Jakarta Sans) |
+| Typography | `--d22-font-display` (Montserrat) `--d22-font-body` (Plus Jakarta Sans) |
 
 **Do not invent new `d22-*` class names** — none will match any CSS rule. Use tokens via inline styles or a `<style>` block for layout glue.
 

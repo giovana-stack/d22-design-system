@@ -1,5 +1,5 @@
 /* ── D22 Seguros — Design Tokens ────────────────────────── */
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
 
 :root {
   /* Brand */
@@ -49,7 +49,7 @@
   --d22-sh-lg: 0 8px 32px rgba(15,28,53,.16);
 
   /* Typography */
-  --d22-font-display: 'Syne', sans-serif;
+  --d22-font-display: 'Montserrat', sans-serif;
   --d22-font-body:    'Plus Jakarta Sans', sans-serif;
 }
 
