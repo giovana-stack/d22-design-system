@@ -12,7 +12,7 @@ Wrap the root of any design in a `<div className="d22-root">` to activate the bo
 </div>
 ```
 
-Fonts (Syne and Plus Jakarta Sans) load via Google Fonts — they require network access. Reference them only through the token variables (`--d22-font-display`, `--d22-font-body`), never as raw family strings.
+Fonts (Montserrat and Plus Jakarta Sans) load via Google Fonts — they require network access. Reference them only through the token variables (`--d22-font-display`, `--d22-font-body`), never as raw family strings.
 
 ## Styling idiom — `d22-*` CSS classes + `var(--d22-*)` tokens
 
