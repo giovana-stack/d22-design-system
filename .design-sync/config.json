@@ -3,7 +3,12 @@
   "pkg": "d22-design-system",
   "globalName": "D22",
   "buildCmd": "npm run build",
-  "entry": "./dist/index.es.js",
+  "entry": "./dist/index.js",
   "cssEntry": "./dist/style.css",
-  "typesDir": "./dist"
+  "projectId": "7db8fd53-f711-4239-870a-3c827f37eb5c",
+  "runtimeFontPrefixes": ["Syne", "Plus Jakarta Sans"],
+  "readmeHeader": ".design-sync/conventions.md",
+  "overrides": {
+    "Button": {"cardMode": "column"}
+  }
 }
